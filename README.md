@@ -1,7 +1,9 @@
 FED-eindopdracht
 ================
 Concept eindopdracht Front-end Development
+
 _Rick van 't Hof_
+
 
 Om mijn concept uit te leggen is het handig eerst mijn portfolio te bezoeken en wat met de muis over het scherm te bewegen:
 http://www.arieck.nl
